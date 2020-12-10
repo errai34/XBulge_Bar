@@ -5,5 +5,7 @@ Using an updated version of BINGO to get the age distribution of the X-shaped re
 ## Steps:
 
 Match EDR3 with APOGEE DR16
+
 Update BINGO with tf-probability
+
 Test exisiting code
